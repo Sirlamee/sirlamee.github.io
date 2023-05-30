@@ -1,0 +1,31 @@
+/** HEADER **/
+#header-nav {
+	background-color: #bbb;
+	border: 0;
+	border-radius: 0; 
+}
+a {
+	text-decoration: none;
+}
+.navbar-brand {
+	padding: 25px auto 25px auto; 
+}
+.navbar-brand h1 {
+	font-family: 'Lora', sans-serif;
+	color: #557c3e;
+	font-size: 1.5em;
+	font-weight: bold;
+	text-shadow: 1px 1px 1px #222;
+	margin-top: 0;
+	margin-bottom: 0;
+	line-height: .75;
+}
+.navbar-brand a:hover, .navbar-brand a:focus {
+	text-decoration: none;
+}
+#chicken, #sushi, #beef {
+	background-color: #ccc;
+}
+h1, h3, p {
+	font-weight: bold;
+}
